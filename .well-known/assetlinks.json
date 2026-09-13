@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.meya.arena",
+        "sha256_cert_fingerprints": ["081730D223670205FBCC390E191D64117424403AE6A434F96C3D534294707B66"]
+      }
+    }]
